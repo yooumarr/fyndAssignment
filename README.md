@@ -5,13 +5,11 @@ This repository contains two tasks demonstrating LLM applications:
 1. **Task 1**: Rating prediction via prompting on Yelp reviews
 2. **Task 2**: Two-dashboard AI feedback web application
 
-##Live Deployments
+## Live Deployments
 
 ### Task 2 Dashboards:
-- **User Dashboard**: [Streamlit Link User](https://user-dashboard.streamlit.app)
-- **Admin Dashboard**: [Streamlit Link Admin](https://admin-dashboard.streamlit.app)
-
-*Note: Replace with your actual deployment URLs*
+- **User Dashboard**: [Streamlit Link User](https://fyndassignment-userdashboard.streamlit.app/)
+- **Admin Dashboard**: [Streamlit Link Admin](https://fyndassignment-analyticsdashboard.streamlit.app/)
 
 ## Repository Structure
 
@@ -32,7 +30,7 @@ This repository contains two tasks demonstrating LLM applications:
 ```bash
 # Clone repository
 git clone https://github.com/yooumarr/fyndAssignment.git
-cd llm-feedback-assignment
+cd fyndAssignment
 pip install -r requirements.txt
 
 # Task 1: Run Jupyter notebook
